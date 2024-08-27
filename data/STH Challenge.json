@@ -1,0 +1,12 @@
+{
+    "id": 0,
+    "name": "STH Challenge",
+    "author": "BlueberryWX",
+    "creators": ["BlueberryWX"],
+    "verifier": "BlueberryWX",
+    "verification": "NONE",
+    "percentToQualify": 50,
+    "password": "Unknown",
+    "records": [
+    ]
+}
