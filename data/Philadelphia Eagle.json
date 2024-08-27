@@ -1,0 +1,18 @@
+{
+    "id": 82111480,
+    "name": "Philadelphia Eagle",
+    "author": "Dcwest",
+    "creators": ["Throwbie"],
+    "verifier": "Dcwest",
+    "verification": "NONE",
+    "percentToQualify": 40,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Tropics",
+            "link": "None",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
