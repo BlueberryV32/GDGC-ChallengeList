@@ -8,11 +8,5 @@
     "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Placeholder User Ignore",
-            "link": "None",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
