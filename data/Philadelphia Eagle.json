@@ -13,6 +13,12 @@
             "link": "None",
             "percent": 100,
             "hz": 0
-        }
+        },
+        {
+            "user": "Lazer",
+            "link": "None",
+            "percent": 100,
+            "hz": 0
+        } 
     ]
 }
