@@ -1,13 +1,12 @@
 {
-    "id": 0,
+    "id": 1,
     "name": "TIYURIIN",
     "author": "Throwbie",
-    "creators": ["Throwbie"]
+    "creators": ["Throwbie"],
     "verifier": "Throwbie",
     "verification": "NONE",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
+    "percentToQualify": 99,
+    "password": "Unknown",
     "records": [
-
     ]
 }
