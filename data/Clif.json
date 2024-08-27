@@ -1,0 +1,18 @@
+{
+    "id": 82924263,
+    "name": "Clif",
+    "author": "Dcwest",
+    "creators": ["Dcwest"],
+    "verifier": "Dcwest",
+    "verification": "NONE",
+    "percentToQualify": 60,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
