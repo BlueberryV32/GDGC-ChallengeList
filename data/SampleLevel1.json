@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
+    "id": 82924263,
+    "name": "Acube",
+    "author": "Throwbie",
+    "creators": ["Throwbie", "Creator2", "Creator3"],
+    "verifier": "Throwbie",
     "verification": "NONE",
-    "percentToQualify": 56,
+    "percentToQualify": 50,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Throwbie",
+            "link": "None",
             "percent": 100,
-            "hz": 360
+            "hz": 60
         }
     ]
 }
