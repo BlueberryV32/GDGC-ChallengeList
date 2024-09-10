@@ -8,5 +8,12 @@
     "percentToQualify": 99,
     "password": "Unknown",
     "records": [
+        
+        {
+            "user": "Rsnobal",
+            "link": "https://media.discordapp.net/attachments/1003438270077751549/1282945228768284722/throwbein_chamb_100.mp4?ex=66e1335a&is=66dfe1da&hm=fae3577968f4e5f07a6ba16566e33a630c5078f51fcdaf2096165f9c0b9b3a76&",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
