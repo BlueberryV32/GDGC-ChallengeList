@@ -11,9 +11,15 @@
         
         {
             "user": "Rsnobal",
-            "link": "None",
+            "link": "https://media.discordapp.net/attachments/1003438270077751549/1282942165185728512/canebaby_is_dead_100.mp4?ex=66e13080&is=66dfdf00&hm=c92dc07ef0a12f254607180628eaa07bdd78835b0654959200bc4cb3de0307f5&",
             "percent": 100,
             "hz": 165
+        },
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
