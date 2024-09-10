@@ -18,7 +18,13 @@
             "user": "Lazer",
             "link": "None",
             "percent": 100,
-            "hz": 0
-        } 
+            "hz": 60
+        },
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 63,
+            "hz": 60
+        }
     ]
 }
