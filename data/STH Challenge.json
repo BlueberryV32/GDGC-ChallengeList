@@ -8,5 +8,12 @@
     "percentToQualify": 50,
     "password": "Unknown",
     "records": [
+        
+        {
+            "user": "Rsnobal",
+            "link": "None",
+            "percent": 100,
+            "hz": 165
+        }
     ]
 }
