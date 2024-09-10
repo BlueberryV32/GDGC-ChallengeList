@@ -5,8 +5,15 @@
     "creators": ["Dcwest"],
     "verifier": "Dcwest",
     "verification": "NONE",
-    "percentToQualify": 99,
+    "percentToQualify": 50,
     "password": "Unknown",
     "records": [
+        
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 63,
+            "hz": 60
+        }
     ]
 }
