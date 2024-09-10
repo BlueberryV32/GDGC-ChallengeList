@@ -8,5 +8,11 @@
     "percentToQualify": 99,
     "password": "Unknown",
     "records": [
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        }
     ]
       }
