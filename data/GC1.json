@@ -1,0 +1,19 @@
+{
+    "id": 109018613,
+    "name": "GC1",
+    "author": "BlueberryWX",
+    "creators": ["BlueberryWX"],
+    "verifier": "Rsnobal",
+    "verification": "NONE",
+    "percentToQualify": 100,
+    "password": "Unknown",
+    "records": [
+        
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
