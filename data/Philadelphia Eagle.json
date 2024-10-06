@@ -31,6 +31,12 @@
             "link": "https://media.discordapp.net/attachments/1003438270077751549/1282937405594144789/philadelphia_eagle_100.mp4?ex=66e12c11&is=66dfda91&hm=e2cf49c79203dcbb374c3d6f3f7199a94052f5cfd51d1218874f0fc6a58b9b64&",
             "percent": 100,
             "hz": 165
-        }
+        },
+        {
+            "user": "Darkshark",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        },
     ]
 }
