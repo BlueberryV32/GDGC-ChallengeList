@@ -1,0 +1,19 @@
+{
+    "id": 86317752,
+    "name": "Wave Codebreaker",
+    "author": "BlueberryWX",
+    "creators": ["BlueberryWX"],
+    "verifier": "Rsnobal",
+    "verification": "https://youtu.be/0nDXUq0Xxr0?si=eKK_Vk2pQkg4iQbE",
+    "percentToQualify": 80,
+    "password": "Unknown",
+    "records": [
+        
+        {
+            "user": "BlueberryWX",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
