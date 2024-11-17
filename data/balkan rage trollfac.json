@@ -1,1 +1,20 @@
+{
+    "id": 110931942,
+    "name": "balkan rage trollfac",
+    "author": "BlueberryWX",
+    "creators": ["BlueberryWX"],
+    "verifier": "BlueberryWX",
+    "verification": "NONE",
+    "percentToQualify": 100,
+    "password": "Unknown",
+    "records": [
+        
+        {
+            "user": "Lazer",
+            "link": "None",
+            "percent": 100,
+            "hz": 0
+        }
+    ]
+}
 
