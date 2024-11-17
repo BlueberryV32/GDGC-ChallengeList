@@ -1,0 +1,19 @@
+{
+    "id": 112205981,
+    "name": "Blueberry UFO Trials",
+    "author": "BlueberryWX",
+    "creators": ["BlueberryWX"],
+    "verifier": "BlueberryWX",
+    "verification": "NONE",
+    "percentToQualify": 34,
+    "password": "Unknown",
+    "records": [
+        
+        {
+            "user": "Rsnobal",
+            "link": "None",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
